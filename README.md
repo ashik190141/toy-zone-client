@@ -7,11 +7,11 @@ Hosted in Firebase -> (https://auth-firebase-context-ta-19217.web.app)
 
 
 ## Starter Template
-Client Repo -> (https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-ashik190141)
+Client Repo -> (https://github.com/ashik190141/toy-zone-client)
 
 
 ## Starter Template
-Server Site Repo -> (https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-ashik190141)
+Server Site Repo -> (https://github.com/ashik190141/toy-zone-server)
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
