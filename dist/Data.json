@@ -1,0 +1,92 @@
+[
+    {
+      "id":"1",
+      "title": "Teddy",
+      "name": "Snuggles",
+      "rating": 4.7,
+      "price": 19.99,
+      "description": "A cuddly teddy bear with soft fur and a friendly smile.",
+      "quality": "Premium",
+      "img": "https://popicon.life/wp-content/uploads/2021/11/169snugglebear.jpg"
+    },
+    {
+      "id":"2",
+      "title": "Teddy",
+      "name": "Cuddle Buddy",
+      "rating": 4.5,
+      "price": 24.99,
+      "description": "The perfect companion for snuggling and comforting.",
+      "quality": "Standard",
+      "img": "https://www.vermontteddybear.com/dw/image/v2/BDKM_PRD/on/demandware.static/-/Sites-master-catalog-vtb/default/dwc9b50a18/images/VTB/vtb-kt00199-15cuddlebuddiesgiftset-ka0150043b_keyword_20150804_1456.jpg?sw=600"
+    },
+    {
+      "id":"3",
+      "title": "Teddy",
+      "name": "Honey Bear",
+      "rating": 4.8,
+      "price": 29.99,
+      "description": "A sweet teddy bear with a golden-colored coat and a heartwarming presence.",
+      "quality": "Premium",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4qWKwiJ6CKQpGx1MzfiGQhmnPZV4Ho3CujIsSuBHQd0yDCrqO2MIU2dyXMYGTiYA8EI&usqp=CAU"
+    },
+    {
+      "id":"4",
+      "title": "Dinosaur",  
+      "name": "T-Rex Tots",
+      "rating": 4.7,
+      "price": 19.99,
+      "description": "Adorable mini T-Rex figures for dinosaur enthusiasts.",
+      "quality": "Standard",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzb79oEd1DNmK9tqEujZMvj1byB9iKpwfSQ&usqp=CAU"
+    },
+    {
+      "id":"5",
+      "title": "Dinosaur",  
+      "name": "Stegosaurus Squad",
+      "rating": 4.5,
+      "price": 24.99,
+      "description": "A set of Stegosaurus toys with realistic details and vibrant colors.",
+      "quality": "Premium",
+      "img":"https://m.media-amazon.com/images/I/81c2Opffr3L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id":"6",
+      "title": "Dinosaur",    
+      "name": "Velociraptor Rumble",
+      "rating": 4.8,
+      "price": 29.99,
+      "description": "Highly detailed Velociraptor figures that can be posed in different positions.",
+      "quality": "Deluxe",
+      "img":"https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw07363b45/80231211230355Alt1x20959011.jpg?sw=600&sh=600&sm=fit&q=70"
+    },
+    {
+      "id":"7",
+      "title": "Unicorn",  
+      "name": "Sparkle Magic",
+      "rating": 4.7,
+      "price": 19.99,
+      "description": "A majestic unicorn toy with shimmering wings and a sparkling horn.",
+      "quality": "Premium",
+      "img":"https://d3fa68hw0m2vcc.cloudfront.net/271/89571085.jpeg"
+    },
+    {
+      "id":"8",
+      "title": "Unicorn",    
+      "name": "Rainbow Dreamer",
+      "rating": 4.5,
+      "price": 24.99,
+      "description": "A colorful unicorn friend that brings dreams and imagination to life.",
+      "quality": "Standard",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJN2999rjvtpWQJ9or4Fk4ZvQ6FdqBdc6Ng&usqp=CAU"
+    },
+    {
+      "id":"9",
+      "title": "Unicorn",    
+      "name": "Glimmer Wings",
+      "rating": 4.8,
+      "price": 29.99,
+      "description": "An enchanting unicorn toy with wings that light up and change colors.",
+      "quality": "Deluxe",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw2dRtdylvq1rcP7ZGNr5R3dkYamdSjmyQQ&usqp=CAU"
+    }
+]
